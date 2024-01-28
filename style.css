@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&family=Lemon&family=Rubik&display=swap');
+
+body{
+    font-family: 'Lemon', serif;
+    background-color: rgb(114, 141, 155);
+}
+
+#buttons{
+    color:white;
+    padding-left: 80px;
+}
+
+.logo{
+    display: block;
+    margin: auto;
+    width: 70%;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 10px black;
+}
+
+.band{
+    display: block;
+    margin: auto;
+    width: 60%;
+    margin-bottom: 20px;
+}
+
+footer h4, h5{
+    font-size:smaller;
+}
