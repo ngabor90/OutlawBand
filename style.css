@@ -43,17 +43,8 @@ footer {
     margin-bottom: 20px;
 }
 
-.pic {
-    height: 520px;
-    object-fit: cover;
-    object-position: center;
-    margin-bottom: 10px;
-    padding-bottom: 30px;
-}
-
-img {
-    display: block;
-    margin: auto;
+.pic{
+    padding-bottom: 25px;
 }
 
 .members:hover {
