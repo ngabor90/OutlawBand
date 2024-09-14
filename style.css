@@ -32,15 +32,18 @@ footer {
     box-shadow: 5px 5px 10px rgb(107, 107, 107);
 }
 
-.logo:hover{
+.logo:hover,
+.band:hover{
     box-shadow: 5px 5px 10px rgb(7, 6, 6);
 }
 
 .band {
     display: block;
     margin: auto;
-    width: 60%;
+    width: 65%;
     margin-bottom: 20px;
+    margin-top: 30px;
+    box-shadow: 5px 5px 10px rgb(107, 107, 107);
 }
 
 .pic{
